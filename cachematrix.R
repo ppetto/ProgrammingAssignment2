@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions are analgous to the exemplary makeVector and cachemean functions
+## given as examples, rejiggered to work on square matrices, computing an inverse instead of a mean
 
 ## Write a short comment describing this function
 
